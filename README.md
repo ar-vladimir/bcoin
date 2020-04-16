@@ -73,3 +73,6 @@ See LICENSE for more info.
 [coverage-status-url]: https://codecov.io/gh/bcoin-org/bcoin?branch=master
 [circleci-status-img]: https://circleci.com/gh/bcoin-org/bcoin/tree/master.svg?style=shield
 [circleci-status-url]: https://circleci.com/gh/bcoin-org/bcoin/tree/master
+
+https://news.bitcoin.com/purse-open-source-philosophical-reasons/
+https://np.reddit.com/r/PurseIO/comments/g2l4hu/closing_down/
